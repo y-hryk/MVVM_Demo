@@ -5,9 +5,9 @@ use_frameworks!
 
 target 'MVVM_Demo' do
 
-pod 'RxSwift','2.3.1'
-pod 'Alamofire', '~> 3.0'
-pod 'SwiftyJSON','2.3.0'
-
+    pod 'RxSwift','2.3.0'
+    pod 'Alamofire', '3.2.1'
+    pod 'SwiftyJSON','2.3.0'
+    
 end
 

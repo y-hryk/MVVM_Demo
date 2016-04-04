@@ -15,7 +15,7 @@ public protocol ObservableType : ObservableConvertibleType {
     /**
     Type of elements in sequence.
     */
-    associatedtype E
+    typealias E
     
     /**
     Subscribes `observer` to receive events for this sequence.
