@@ -1,18 +1,15 @@
 PODS:
   - Alamofire (3.3.0)
-  - ObjectMapper (1.2.0)
   - RxSwift (2.3.1)
   - SwiftyJSON (2.3.0)
 
 DEPENDENCIES:
   - Alamofire (~> 3.0)
-  - ObjectMapper (~> 1.2)
   - RxSwift (= 2.3.1)
   - SwiftyJSON (= 2.3.0)
 
 SPEC CHECKSUMS:
   Alamofire: 9054db4a1b1ca9e363223183e01cea380159a27c
-  ObjectMapper: b1e9c7c8a9f6400b72690c80072c131504caa66f
   RxSwift: 829b2843e9eddc77a02cb3f5117f0d55f8f646f1
   SwiftyJSON: 8d6b61a70277ef2a5d710d372e06e7e2d87fb9e4
 

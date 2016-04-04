@@ -85,13 +85,11 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-MVVM_Demo/Alamofire.framework"
-  install_framework "Pods-MVVM_Demo/ObjectMapper.framework"
   install_framework "Pods-MVVM_Demo/RxSwift.framework"
   install_framework "Pods-MVVM_Demo/SwiftyJSON.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-MVVM_Demo/Alamofire.framework"
-  install_framework "Pods-MVVM_Demo/ObjectMapper.framework"
   install_framework "Pods-MVVM_Demo/RxSwift.framework"
   install_framework "Pods-MVVM_Demo/SwiftyJSON.framework"
 fi
