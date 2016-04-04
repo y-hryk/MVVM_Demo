@@ -8,6 +8,7 @@ target 'MVVM_Demo' do
 pod 'RxSwift','2.3.1'
 pod 'Alamofire', '~> 3.0'
 pod 'SwiftyJSON','2.3.0'
+pod 'ObjectMapper', '~> 1.2'
 
 end
 
